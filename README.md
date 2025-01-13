@@ -8,6 +8,8 @@ Bem-vindo ao projeto de Sistema de Gestão de Biblioteca! Este projeto foi desen
 - **Listar todos os livros disponíveis**: Exibe apenas os livros que estão disponíveis para empréstimo.
 - **Realizar empréstimo de um livro**: Permite que um usuário escolha um livro disponível e registre o empréstimo.
 
+- Adicionada nova funcionalidade de cadastro de livros no menu, como parte do desafio.
+
 
 ## Estrutura do Projeto
 
@@ -27,12 +29,6 @@ O projeto é dividido nas seguintes classes principais:
 A aplicação irá perguntar se você deseja ver os livros disponíveis.
 Após escolher um livro, você pode realizar o empréstimo, que será registrado e o livro marcado como indisponível.
 
-#Contribuindo
-Sinta-se à vontade para contribuir com o projeto! Você pode:
-
-## Reportar bugs
-Sugerir novas funcionalidades
-Enviar pull requests com melhorias ou correções
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
